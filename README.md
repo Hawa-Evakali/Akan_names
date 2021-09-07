@@ -1,30 +1,42 @@
 ## Project Name
+
 ## Akan-Names,
+
 ## Project Description
+
 This website projects a form that assists the user to generate Akan Names based on their birthdays.
 Author(s) information
 Hawa Evakalu.
+
 ## Prerequisities
+
 You need to have git installed
 You can install it with the following command in your terminal $ sudo apt install git-all
+
 ## Setup instructions
+
 To access this project on your local files, you can clone it using these steps
 
 1. Open your terminal
-2. Use this command to clone `$ git clone https://github.com/Karuu-01/Akan-Name
+2. Use this command to clone `$ git clone https://github.com/Hawa-Evakali/Akan_names.git
 3. This will clone the repositoty into your local folder
-Enjoy :):)__
+   Enjoy :):)\_\_
+
 ## BDD
+
 As a user, I would like to;
 
 1. See a small description of what the application does on the landing page.
 2. Enter my birthday through a form
 3. Choose what gender I am.
 4. Click the submit button to see what my Akan name would be
+
 ## Live Site
-View [Live] ( https://github.com/Karuu-01/Akan-Name)
+
+View [Live] ( https://github.com/Hawa-Evakali/Akan_names.git)
 
 ## Technologies Used
+
 HTML
 CSS
 JAVASCRIPT
