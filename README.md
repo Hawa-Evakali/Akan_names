@@ -1,6 +1,6 @@
 # Project Name
 
-## Akan-Names,
+# Akan-Names,
 
 ## Project Description
 
