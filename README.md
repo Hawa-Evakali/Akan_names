@@ -15,7 +15,7 @@ You can install it with the following command in your terminal $ sudo apt instal
 
 ## Setup instructions
 
-To access this project on your local files, you can clone it using these steps
+To access this project on your local files, you can always clone this project using these steps
 
 1. Open your terminal
 2. Use this command to clone `$ git clone https://github.com/Hawa-Evakali/Akan_names.git
