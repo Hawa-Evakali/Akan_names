@@ -1,0 +1,42 @@
+*{
+    font-family: 'Sen';
+  }
+  body{
+    background-image: url(im.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .head h1{
+    text-align: center;
+    text-decoration: underline;
+  }
+  #side{
+    float: right;
+    margin: 17px;
+    margin-right: 200px;
+  }
+  form{
+    background-color: rgb(245, 179, 231);
+    width: 200px;
+    height: 40px;
+    margin-left: 8px;
+    padding: 30px;
+    margin: 60px;
+  }
+  .head p{
+    font-size: large;
+    font-family: 'Sen' sans-serif;
+    font-weight: 900;
+  }
+  .form-group,row1{
+    font-size: 20px;
+    padding: 0px;
+    margin: 0;
+    box-sizing: content-box;
+    
+    
+  }
+  .form,row{
+    margin: 80px;
+    height: 300px;
+  }

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sen:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="static/CSS/bootstrap-3.4.1-dist/css/bootstrap.css"
+    />
+    <link rel="stylesheet" href="static/CSS/index.css" />
+    <title>Akan-Name</title>
+  </head>
+  <body>
+    <div class="container">
+    <div class="head">
+      <h1>Akan Name Generator</h1>
+      <p>
+        Akan names come from a traditional naming system for people from
+        countries such as Togo, Ivory Coast and Ghana. A child’s name is
+        determined by factors surrounding his or her birth.These Akan names
+        signify the day one is born. Akan names are derived from Ghanian
+        culture. Frequently in Ghana, children are given their first name as a
+        'day name' which corresponds to the day in the week they were born.<br />
+        Here are Ghanian day names.
+        <em
+          >{Male} [Sunday: Kwasi] [Monday: Kwadwo] [Tuesday: Kwabena]
+          [Wednesday: Kwaku] [Thursday: Yaw] [Friday: Kofi] [Saturday: Kwame]
+          {Female} [Sunday: Akosua] [Monday: Adwoa] [Tuesday: Abenaa]
+          [Wednesday: Akua] [Thursday: Yaa] [Friday: Afua] [Saturday: Ama]</em
+        >
+        Most people do know when their birthdays are, but some might not know
+        what day of the week they were born. Luckily for us, there are ways to
+        calculate the day of the week from a specific date.We'll do that using
+        this Akan-Name Generator<a
+          href="https://journals.co.za/doi/pdf/10.25159/1016-8427/4294"
+          target="blank"
+        >
+          READ MORE</a
+        >
+      </p>
+    </div>  
+    </div>
+     <div id="side">
+      <img src="https://c.tenor.com/gCKyv6LJQ28AAAAM/mypostcard-postcards.gif" alt="side" height="300" width="300" />
+     </div>
+    <!--The user input form-->
+    <form id="form_data" class="form row">
+      <div class="form-group row1">
+        <label class="label-control">Enter your date of birth:</label>
+        <input
+          class="form-control form-control-sm col-md-6"
+          type="date"
+          id="birthdate"
+          value=""
+          placeholder="Enter your dateofbirth"
+        /><br />
+      </div>
+
+      <div class="form-group row2">
+        <label>Input gender:</label>
+        <select id="gender" class="form-control form-control-sm">
+          <option>Choose your gender</option>
+          <option>Male</option>
+          <option>Female</option>
+          <br />
+        </select>
+      </div>
+      <div class="row2">
+        <button
+          type="button"
+          class="btn btn-success btn-sm"
+          value="submit"
+          onclick="akanNames()"
+        >
+          submit
+        </button>
+      </div>
+      <!-- Result output -->
+
+      <p id="display" class="col-md-12"></p>
+    </form>
+    <script src="static/JS/index.js"></script>
+  </body>
+</html>
