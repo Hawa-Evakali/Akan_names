@@ -17,7 +17,7 @@ If you are using Ubuntu
 
 To access this project on your local files, you can always clone this project using these steps
 
-1. Open your terminal
+1. Open your terminal you can use the shortcut ctrl alt T(press the key T)
 2. Use this command to clone `$ git clone https://github.com/Hawa-Evakali/Akan_names.git
 3. This will clone the repositoty into your local folder
    I hope you like the progect
