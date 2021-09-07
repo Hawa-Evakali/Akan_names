@@ -37,7 +37,7 @@ View [Live] ( https://github.com/Hawa-Evakali/Akan_names.git)
 
 ## Technologies Used
 
-HTML
+#### HTML
 CSS
 JAVASCRIPT
 BOOTSRAP
