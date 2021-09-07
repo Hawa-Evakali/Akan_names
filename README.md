@@ -41,7 +41,7 @@ HTML
 CSS
 JAVASCRIPT
 BOOTSRAP
-### GIT
+GIT
 Contact information
 You can reach me through my E-mail address
 
