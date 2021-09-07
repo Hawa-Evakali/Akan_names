@@ -41,7 +41,7 @@ View [Live] ( https://github.com/Hawa-Evakali/Akan_names.git)
 #### CSS
 #### JAVASCRIPT
 #### BOOTSRAP
-GIT
+### GIT
 Contact information
 You can reach me through my E-mail address
 
