@@ -20,7 +20,7 @@
 # .idea/dynamic.xml
 
 ## File-based project format
-*.ipr
+*.iprS
 *.iws
 *.iml
 
